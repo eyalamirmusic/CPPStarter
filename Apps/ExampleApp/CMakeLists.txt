@@ -1,0 +1,2 @@
+add_executable(ExampleApp Main.cpp)
+target_link_libraries(ExampleApp PRIVATE CPPStarter cppstarter_warnings)
